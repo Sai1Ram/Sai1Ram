@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 
 # 💫 About Me:
-🔭 I’m currently working on **eYRC(Robotics Competition by IIT Bombay)**<br>🌱 I’m currently learning **Django, Node Js**<br>📫 How to reach me **sairamsenapati0022@gmail.com**<br>
+🔭 I’m currently working on **backend projects**<br>🌱 I’m currently learning **Django, Node Js**<br>📫 How to reach me **sairamsenapati0022@gmail.com**<br>
 
 # 🤝 Connect Me !!🤝
 <p align="left">
