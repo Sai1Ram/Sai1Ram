@@ -6,7 +6,7 @@
 # 💫 About Me:
 🔭 I’m currently working on **backend projects**<br>🌱 I’m currently learning **Django, Node Js**<br>📫 How to reach me **sairamsenapati0022@gmail.com**<br>
 
-<p><strong>Follow me around the web:</strong></p><br>
+# Follow me around the web:
 
 <a href="https://www.linkedin.com/in/sai1ram/" target="_blank"><img src="https://img.shields.io/badge/-sai1ram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai1ram/" alt="LinkedIn"></a>
 <a href="https://instagram.com/__sai_ram_senapati?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-sai_ram_senapati-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/__sai_ram_senapati?igshid=ZDdkNTZiNTM=" alt="Instagram"></a>
