@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 
 # 💫 About Me:
-🔭 I’m currently working on **backend projects**<br>🌱 I’m currently learning **Next Js, TypeScript**<br>📫 How to reach me **sairamsenapati0022@gmail.com**<br>
+🔭 I’m currently working on **MERN tech stack**<br>🌱 I’m currently learning **TypeScript**<br>📫 How to reach me **sairamsenapati0022@gmail.com**<br>
 
 # Follow me around the web:
 
